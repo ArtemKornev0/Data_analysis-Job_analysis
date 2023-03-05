@@ -69,7 +69,7 @@
 
 ## Использование
 
-Вся информация о работе представлена в jupyter-ноутбуке [Project-1.notebook.ipynb](Project_2_notebook.ipynb).
+Вся информация о работе представлена в jupyter-ноутбуке [Project_2_notebook.ipynb](Project_2_notebook.ipynb).
 
 ## Авторы
 
