@@ -56,14 +56,14 @@
 
 ## Зависимости
 
-* Python (3.10.8):
-* [numpy (1.24.2)](https://numpy.org)
-* [pandas (1.5.2)](https://pandas.pydata.org)
-* [plotly (5.11.0)](https://plotly.com)
+* Python 3.10.8
+* numpy 1.24.2
+* pandas 1.5.2
+* plotly 5.11.0
 
 ## Установка
 
-[git](https://github.com/artem-75/Data_analysis-Job_analysis)
+[git](https://github.com/ArtemKornev0/Data_analysis-Job_analysis)
 
 Нажать зеленую кнопку: <> Code, далее выбрать нужное (клонировать репозиторий, открыть на ПК или скачать его архив)
 
@@ -73,7 +73,7 @@
 
 ## Авторы
 
-[Артем Корнев](https://t.me/@Artem1975)
+[Артем Корнев](https://t.me/@ArtemKornev0)
 
 ## Выводы
 
